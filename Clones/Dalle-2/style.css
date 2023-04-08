@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+.text{
+    color: aliceblue;
+    font-family: sans-serif;
+    position: absolute; left: 60px;
+    font-size:x-large;
+}
+
+.logo{
+    width: 100px;
+    position: absolute; left: -15px;
+    top: 18px;
+}
+
+.heading{
+    font-size: 900%;
+    color: aliceblue;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    position: absolute; left: 15px;
+    bottom: 3cm;
+}
+
+.heading-description{
+    font-size: 150%;
+    color: aliceblue;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    position: absolute; left: 25px;
+    bottom: 3cm;
+}
+
+.MButton{
+    color: white;
+    border: 2px outset white;
+   background-color: black;
+   height:33px;
+   width:130px;
+   cursor:pointer;
+   font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+   position: absolute; left: 30px;
+   bottom: 2cm;
+   font-size: 130%;
+}
+
+.MButton:hover{
+    background-color: white;
+    color: black;
+    border: 0px outset white;
+ }
